@@ -12,3 +12,4 @@ Please see [MTGallery](https://github.com/liamacox/MTGallery).
 # Commander Sets
 
 * Bloomburrow (blc)
+* Lorwyn Eclipsed (ecc)
