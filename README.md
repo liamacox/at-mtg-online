@@ -8,3 +8,4 @@ Please see [MTGallery](https://github.com/liamacox/MTGallery).
 | Set | Number of Packs |
 | ---------| --------------- |
 | Bloomburrow (blb) | 90 |
+| Lorwyn Eclipsed (ecl) | 90 |
